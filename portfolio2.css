@@ -53,6 +53,7 @@ span{
 li{
     font-size: 24px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: all .5s;
 }
 
 a{
